@@ -7,6 +7,23 @@ Key components of the system include:
 3.	Integration and Real-Time Processing: Combining detection and tracking components into a cohesive system that processes video streams in real-time. This includes optimizing performance to handle high-resolution video and varying lighting conditions.
 The project also addresses several challenges, such as handling occlusions, varying object scales, and real-time processing constraints. By implementing advanced techniques and optimizing the system for efficiency, the project aims to deliver a reliable solution for various practical applications.
 In summary, this project aims to advance the capabilities of image detection and tracking systems, providing a robust solution for accurately identifying and monitoring objects in dynamic environments. The outcomes of this project have significant implications for enhancing real-time visual analysis and enabling advanced applications in numerous fields.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Note: While doing any pyhton project, it is necessary to create a virtual enivironment. By creating a virtual environment, the modules which you are using in a project, there might be possibility that you have used the same modules in some other project, the virtual environment helps to create an environment which completely isolated from system environment. 
 To create a virtual environmnet: if you are doing this project in Microsoft Visual Studio code, then open command prompt in VS Code terminal and give these commands to activate virtual environment: 1. pip instal virtualenv
              2. virtualenv name of your env (ex: virtualenv myenv)
