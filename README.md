@@ -16,11 +16,16 @@ In summary, this project aims to advance the capabilities of image detection and
 
 
 
-Note: While doing any pyhton project, it is necessary to create a virtual enivironment. By creating a virtual environment, the modules which you are using in a project, there might be possibility that you have used the same modules in some other project, the virtual environment helps to create an environment which completely isolated from system environment. 
+Note: While doing any pyhton project, it is necessary to create a virtual enivironment. By creating a virtual environment, the modules which you are using in a project, there might be possibility that you have used the same modules in some other project, the virtual environment helps to create an environment which completely isolated from system environment.
 
 
+To create a virtual environmnet: if you are doing this project in Microsoft Visual Studio code, then open command prompt in VS Code terminal and give these commands to activate virtual environment: 
 
-To create a virtual environmnet: if you are doing this project in Microsoft Visual Studio code, then open command prompt in VS Code terminal and give these commands to activate virtual environment: 1. pip instal virtualenv
-             2. virtualenv name of your env (ex: virtualenv myenv)
-  	         3. activate your virtual environment: myenv\Scripts\activate (this command as per the example, you give any name to your virtualenv, but make sure that while you are activating the virtualenv mention the same name which you have given while creating the virtualenv)
-  	         4. after virtualenv is active, install the required libraries by using pip install __________(name of the library) in VS Code terminal CMD
+1. pip instal virtualenv
+   
+2. virtualenv name of your env (ex: virtualenv myenv)
+   
+3. activate your virtual environment: myenv\Scripts\activate (this command as per the example, you give any name to your virtualenv, but make sure that while you are activating the virtualenv mention the same name which you have given while creating the virtualenv)
+   
+4. after virtualenv is active, install the required libraries by using pip install __________(name of the library) in VS Code terminal CMD
+
