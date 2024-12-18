@@ -23,9 +23,8 @@ To create a virtual environmnet: if you are doing this project in Microsoft Visu
 
 1. pip instal virtualenv
    
-2. virtualenv name of your env (ex: virtualenv myenv)
-   
+2. virtualenv name of your env (ex: python -m venv myenv)<--- Here myenv is the name of the virtual environment, you can give as per your wish
 3. activate your virtual environment: myenv\Scripts\activate (this command as per the example, you give any name to your virtualenv, but make sure that while you are activating the virtualenv mention the same name which you have given while creating the virtualenv)
    
-4. after virtualenv is active, install the required libraries by using pip install __________(name of the library) in VS Code terminal CMD
+4. after virtualenv is active, install the required libraries by using pip install __________(name of the library) in VS Code terminal CMD(for example: pip install opencv-python)
 
